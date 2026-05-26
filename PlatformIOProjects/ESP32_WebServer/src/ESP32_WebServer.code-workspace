@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../ESP32_WebServer"
+		},
+		{
+			"name": "ESP32_WebServer",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
